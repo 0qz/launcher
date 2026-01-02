@@ -1,5 +1,3 @@
-# Hydra Project Rules
-
 ## Logging
 
 - **Always use `logger` instead of `console` for logging** in both main and renderer processes
